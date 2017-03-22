@@ -31,7 +31,7 @@ If Livewire behaved like a standard (unicast) service, the network would quickly
 
 There are two types of livewire streams: standard streams incur a relatively high amount of a delay because of the nature of packeting - if we wait for a standard payload on a 1500 byte packet to fill, there's a certain amount of latency incurred. By contrast, Live streams keep the packet size very small to minimize latency, but this also increases network load so they should only be used on critical sources like microphones and airfeeds. CD players can easily get by with more latency so they should use standard streams.
 
-Livewire is the protcol that all Axia/Telos equipment uses. For more information see the WMFO Operations Mandatory Reading *Introduction to Livewire* and other [manuals](http://axiaaudio.com/manuals "http://axiaaudio.com/manuals") published by Axia.
+Livewire is the protcol that all Axia/Telos equipment uses. For more information see the WMFO Operations Mandatory Reading *Introduction to Livewire* and other [manuals](https://www.telosalliance.com/downloads?search=product-manuals#downloadListing "https://www.telosalliance.com/downloads?search=product-manuals#downloadListing") published by the Telos Alliance.
 
 ### Entering and Leaving the Livewire Network
 
