@@ -188,8 +188,9 @@ BB - EAS - O
 
 ### Destinations:
 
-||
+
 |**Port**|**Name**|[**Channel**](https://wiki.wmfo.org/index.php?title=Operations/Diagrams_%26_Tables/LW_Address_Space "LW Address Space")|**Type**|**Gain**|**Direct Wire**|**Direct Device**|**Terminal Device**|
+--- | --- | --- | --- | --- | --- | --- | --- 
 |1|SA - CDR1 - In|10500|FS|0.0|-|CONSHP 7|SA - CDR1 - I|
 |2|-|0|FS|0.0|-|-|-|
 |3|-|0|FS|0.0|-|-|-|
