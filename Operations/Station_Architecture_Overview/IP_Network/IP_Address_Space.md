@@ -17,7 +17,7 @@ IPv4 Local Network Info
 
 ### Internal DHCP Info
 
-```Addresses: 192.168.10.\*
+Addresses: 192.168.10.\*
 
  Subnet Mask: 255.255.0.0
  
@@ -25,7 +25,7 @@ IPv4 Local Network Info
  
  DNS: 192.168.0.10
  
- Search domains: wmfo.local```
+ Search domains: wmfo.local
 
 Basic IPv4 Conventions
 ----------------------
