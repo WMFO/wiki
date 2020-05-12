@@ -20,7 +20,7 @@ Edward Beuchert
  Public Service Director
  WMFO 91.5 FM
  P.O. Box 53065
- Medford, MA 02155
+ Medford, MA 02153
 
 You can also email your PSA as a plain text file, pdf, or legacy Word document (with a ".doc" extension but not ".docx" or XML) to [psa@wmfo.org](mailto:psa@wmfo.org "mailto:psa@wmfo.org"). Please include your group's affiliation and "PSA" on the subject line.
 
