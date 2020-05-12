@@ -14,17 +14,15 @@ The PSA Department applies its discretion regarding the broadcast of submitted a
 
 WMFO DJs are free to air any approved PSA on their shows, so for maximum publicity an organization should submit both a hard copy PSA that can be read, and an audio PSA for those DJs that prefer to play them.
 
-You can send your PSA to WMFO as follows:
+You can send your PSA to WMFO as follows...
 
-By email (preferred, especially during these Coronavirus times) to [psa@wmfo.org](mailto:psa@wmfo.org "mailto:psa@wmfo.org"). your PSA as a plain text file, pdf, or legacy Word document (with a ".doc" extension but not ".docx" or XML). Please include your group's affiliation and "PSA" on the subject line.
+By email (preferred, especially during these Coronavirus times) to:
 
-By postal mail to
+[psa@wmfo.org](mailto:psa@wmfo.org "mailto:psa@wmfo.org"). your PSA as a plain text file, pdf, or legacy Word document (with a ".doc" extension but not ".docx" or XML). Please include your group's affiliation and "PSA" on the subject line.
 
-Edward Beuchert
- Public Service Director
- WMFO 91.5 FM
- P.O. Box 53065
- Medford, MA 02153
+By postal mail to:
+
+Edward Beuchert, Public Service Director, WMFO 91.5 FM, P.O. Box 53065, Medford, MA 02153
 
 1.  1. [WMFO Public Service Announcement Guidelines](#WMFO_Public_Service_Announcement_Guidelines)
 
