@@ -18,7 +18,7 @@ You can send your PSA to WMFO as follows...
 
 By email (preferred, especially during these Coronavirus times) to:
 
-[psa@wmfo.org](mailto:psa@wmfo.org "mailto:psa@wmfo.org"). your PSA as a plain text file, pdf, or legacy Word document (with a ".doc" extension but not ".docx" or XML). Please include your group's affiliation and "PSA" on the subject line.
+[psa@wmfo.org](mailto:psa@wmfo.org "mailto:psa@wmfo.org") -- Please send your PSA as a plain text file, PDF, or legacy Word document (with a ".doc" extension but not ".docx" or XML). Please include your group's affiliation and "PSA" on the subject line.
 
 By postal mail to:
 
