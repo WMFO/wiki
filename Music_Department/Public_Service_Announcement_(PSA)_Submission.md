@@ -16,13 +16,15 @@ WMFO DJs are free to air any approved PSA on their shows, so for maximum publici
 
 You can send your PSA to WMFO as follows:
 
+By email (preferred, especially during these Coronavirus times) to [psa@wmfo.org](mailto:psa@wmfo.org "mailto:psa@wmfo.org"). your PSA as a plain text file, pdf, or legacy Word document (with a ".doc" extension but not ".docx" or XML). Please include your group's affiliation and "PSA" on the subject line.
+
+By postal mail to
+
 Edward Beuchert
  Public Service Director
  WMFO 91.5 FM
  P.O. Box 53065
  Medford, MA 02153
-
-You can also email your PSA as a plain text file, pdf, or legacy Word document (with a ".doc" extension but not ".docx" or XML) to [psa@wmfo.org](mailto:psa@wmfo.org "mailto:psa@wmfo.org"). Please include your group's affiliation and "PSA" on the subject line.
 
 1.  1. [WMFO Public Service Announcement Guidelines](#WMFO_Public_Service_Announcement_Guidelines)
 
