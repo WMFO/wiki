@@ -23,6 +23,3 @@ By email (preferred, especially during these Coronavirus times) to:
 By postal mail to:
 
 Edward Beuchert, Public Service Director, WMFO 91.5 FM, P.O. Box 53065, Medford, MA 02153
-
-1.  1. [WMFO Public Service Announcement Guidelines](#WMFO_Public_Service_Announcement_Guidelines)
-
