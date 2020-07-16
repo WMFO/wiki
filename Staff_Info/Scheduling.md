@@ -16,7 +16,7 @@ Red: First 25% of Showtimes Assigned (Highest Demand)
 
 \*The categorization of slots is based on the LAST edit made to that time. Some shows may have been edited after being originally placed, (e.g. to fix typo) coding them with less demand than in actuallity. Always assume a slot was assigned at the indicated time or EARLIER.
 
-[![AssignmentOrder.png](https://wiki.wmfo.org/@api/deki/files/342/=AssignmentOrder.png)](https://wiki.wmfo.org/@api/deki/files/342/=AssignmentOrder.png "AssignmentOrder.png")
+![AssignmentOrder.png](https://wiki.wmfo.org/@api/deki/files/342/=AssignmentOrder.png "AssignmentOrder.png")
 
 1.  1. [Animation](#Animation)
 2.  2. [Graphic](#Graphic)
